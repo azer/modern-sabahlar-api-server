@@ -1,6 +1,6 @@
 ## modern-sabahlar-api-server
 
-Unofficial Modern Sabahlar API Server
+Unofficial Modern Sabahlar API Server. It's running at http://modernsabahlar.herokuapp.com
 
 ## Install
 
