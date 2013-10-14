@@ -1,0 +1,28 @@
+{
+  "name": "modern-sabahlar-api-server",
+  "version": "0.0.0",
+  "description": "Unofficial Modern Sabahlar API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "modenr-sabahlar",
+    "podcast"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/modern-sabahlar-api-server.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "dependencies": {
+    "scrape-url": "0.0.1",
+    "json-resources": "0.0.1",
+    "level-json-cache": "0.0.0",
+    "local-debug": "0.0.0"
+  }
+}
